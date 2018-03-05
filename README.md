@@ -44,7 +44,7 @@ Bounty Snakes:
 * Lost to [Workday](https://www.workday.com/)'s bounty snake
 * Lost to [CheckFront](https://www.checkfront.com/)'s two bounty snakes
 
-The snake came third in our round of the battle. There were 57 competitors in the intermediate tier.
+The snake came third in our round of the battle. There were 57 competitors in the intermediate tier. The tournament can be viewed on Sendwithus' [Twitch stream](https://www.twitch.tv/videos/234961139?t=01h56m44s).
 
 ## Screenshots<a id="sec-3" name="sec-3"></a>
 ![Screenshot #1](./screenshots/snake-0.png "Round Start")
@@ -53,6 +53,6 @@ The snake came third in our round of the battle. There were 57 competitors in th
 ![Screenshot #4](./screenshots/snake-3.png "Attack State")
 
 ## Acknowledgments<a id="sec-4" name="sec-4"></a>
-* __Built in collaboration with__ [Ben Austin](https://github.com/austinben) and [Jaxson Van Doorn](https://github.com/woofers), 2018-03-03
+* __Built in collaboration with__ _[Ben Austin](https://github.com/austinben)_ and _[Jaxson Van Doorn](https://github.com/woofers)_, 2018-03-03
 * __Designed for__ [Sendwithus](https://github.com/sendwithus)' BattleSnake competition, 2018-03-03
 <img align="left" height="120" width="120" src="https://github.com/zakwht/battlesnake-2018/blob/master/screenshots/intermediate.png?raw=true" />
